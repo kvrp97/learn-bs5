@@ -1,0 +1,1 @@
+.row>(.col-lg-4.col-md-6>.portfolio-box.shadow>(img[src="images/portfolio/portfolio-$.jpg"][alt="portfolio $ image"][title="portfolio $ picture"].img-fluid)>div.portfolio-info>div.caption>h4{project name goes here $}p{category project})*9
